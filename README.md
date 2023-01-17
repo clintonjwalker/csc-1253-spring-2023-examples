@@ -1,1 +1,1 @@
-# csc-1253-spring-2023-examples
+# CSC 1253 Code Examples
